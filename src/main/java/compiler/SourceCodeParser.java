@@ -1173,7 +1173,6 @@ public class SourceCodeParser implements Scannable {
 	 * like :
 	 * [Inner Classes :
 	 * access = final class , name = 0 , fullname = jce.TestClass$1 , outername = 0]
-	 * @param s
 	 * @return
 	 */
 	private Attribute_InnerClasses parseInnerClasses() throws ParsingException, GrammerException {
