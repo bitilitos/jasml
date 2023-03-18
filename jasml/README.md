@@ -1,3 +1,5 @@
+# The Java Assembling Language 
+
 JASML is a tool providing alternative ways, other than the commonly used java programming language, to view and edit the java class file - through asm like java macro instructions specified in The Java Language Specification.
 
 As we all known, the java is a platform independent, and this is achieved through the JVM. The code is written once, and compiled into .class files(with the javac.exe or other compilers), which is then executed by JVM on different platforms. However, there is another way to construct the .class files, by directly writting the macro insctructions which can be recognized by JVM. Also, the .class files can be decompiled into macro instructions. The java macro instructions to java is what asm to C.
