@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"compiler","l":"SourceCodeParser.LabeledInstructions"},{"p":"compiler","l":"SourceCodeParser.OpcodeWrapper"},{"p":"compiler","l":"SourceCodeParser"}];updateSearchResults();
