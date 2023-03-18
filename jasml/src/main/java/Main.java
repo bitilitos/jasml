@@ -11,11 +11,11 @@ import decompiler.JavaClassParser;
 import decompiler.SourceCodeBuilder;
 import decompiler.SourceCodeBuilderConfiguration;
 
-public class jasml {
+public class Main {
 	static String usage;
 	static {
 		usage = "Usage : \r\n";
-		usage += "java jasml [-options] name \r\n";
+		usage += "java Main [-options] name \r\n";
 		usage += "name            the name of the file to process.\r\n";
 		usage += "options can be:\n";
 		usage += "-d              decompile java class into .jasm file.\r\n";
